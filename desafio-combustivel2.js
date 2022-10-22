@@ -1,6 +1,7 @@
 
+// Exercicio de estrutura de condição:
 
-// 1 - preço do etanal
+// 1 - preço do etanol
 // 2 - preço da gasolina
 // 3 - tipo de combustivel
 // 4 - consumo por km do carro
