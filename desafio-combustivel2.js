@@ -1,5 +1,5 @@
 
-// Exercicio de estrutura de condição:
+// Exercicio de estrutura de condição.
 
 // 1 - preço do etanol
 // 2 - preço da gasolina
