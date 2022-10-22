@@ -1,7 +1,7 @@
 
 
-// 1 - preço do etanal
-// 2 - preço da gasolina
+// 1 - preÃ§o do etanol
+// 2 - preÃ§o da gasolina
 // 3 - tipo de combustivel
 // 4 - consumo por km do carro
 // 5 - distancia da viagem
