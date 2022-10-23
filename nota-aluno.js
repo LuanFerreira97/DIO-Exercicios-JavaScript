@@ -9,7 +9,7 @@ const nota2 = 7;
 const nota3 = 5;
 const media = (nota1 + nota2 + nota3)/3;
 
-console.log('Sua media foi: '+media)
+console.log('Sua media foi: '+media.toFixed(2))
 
 if (media >7) {
     
